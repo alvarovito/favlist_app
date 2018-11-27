@@ -3,22 +3,29 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
-        <entry key="vectorWizard">
+        <entry key="imageWizard">
           <value>
             <PersistentState>
               <option name="children">
                 <map>
-                  <entry key="vectorAssetStep">
+                  <entry key="imageAssetPanel">
                     <value>
                       <PersistentState>
-                        <option name="values">
+                        <option name="children">
                           <map>
-                            <entry key="assetSourceType" value="FILE" />
-                            <entry key="height" value="8" />
-                            <entry key="outputName" value="ic_logotext2" />
-                            <entry key="overrideSize" value="true" />
-                            <entry key="sourceFile" value="E:\repos\favlist_app\design\mockups\logoText2.svg" />
-                            <entry key="width" value="27" />
+                            <entry key="launcher">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
+                                      <entry key="foregroundImage" value="D:\repos\favlist_app\design\mockups\images\fightClub.jpg" />
+                                      <entry key="outputName" value="movie_fightclub" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
                           </map>
                         </option>
                       </PersistentState>
